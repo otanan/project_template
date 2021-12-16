@@ -5,4 +5,4 @@ Contains .pdfs of handwritten notes.
 Keep meeting notes, scrap work, lecture notes, hand-solved problems etc. in this folder.
 
 ## Legend
-- [] Public
+- [ ] Public
