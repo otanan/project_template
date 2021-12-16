@@ -12,3 +12,6 @@ Comprehensive study and background review of subject relating to project. Ideall
 
 ## Example
 In abstract algebra this would contain notes from a textbook to study, say, group theory or module theory.
+
+## Legend
+- [x] Public
